@@ -23,7 +23,7 @@ In some cases, you don't know until run time how many predicates you have to app
 5. Add the following line to the `Main` method in class `DynamicPredicates`, under the declaration of `ids`.
 
      ```csharp
-     QueryById(ids);
+     QueryByID(ids);
      ```
 
 6. Run the project.
